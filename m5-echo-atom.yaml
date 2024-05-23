@@ -8,9 +8,9 @@ esphome:
   min_version: 2023.5.0
 
 esp32:
-  board: m5stack-atom
-  framework:
-    type: arduino
+	board: m5stack-atom
+	framework:
+		type: arduino
   
 logger:
 captive_portal:
